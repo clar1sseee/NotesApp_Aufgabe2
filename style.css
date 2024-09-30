@@ -1,0 +1,85 @@
+body{
+    background-color: #e9d7f7;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.heading {
+    text-align: center;
+}
+
+#list{
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+
+
+#list li {
+    width: 350px; 
+    padding: 30px;
+    margin: 15px;
+    border-radius: 5px;
+    background-color: #f5f2c6;
+    position: relative;
+}
+
+#list button {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background-color: #f87171;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+#list h3 {
+    margin: 0;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+
+#list p {
+    margin: 0;
+}
+
+#list button:hover {
+    background-color: #cb3535;
+}
+
+.note-box {
+    width: 350px; 
+    padding: 30px;
+    margin: 20px auto;
+    background-color: #f5f2c6;
+}
+
+.note-box input, 
+.note-box textarea {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 10px;
+    border: transparent;
+    box-sizing: border-box;
+    font-family: inherit;
+    max-width: 100%;
+    min-width: 100%;
+}
+
+#notes {
+    height: 100px;
+}
+
+.note-box button {
+    width: 100%;
+    padding: 10px;
+    background-color: #faf148;
+    cursor: pointer;
+}
+
+.note-box button:hover {
+    background-color: #d4cc3f;
+}
+
+
+                
