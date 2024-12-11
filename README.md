@@ -3,7 +3,7 @@
 ## Projektbeschreibung
 
 Dieses Projekt ist eine verbesserte Version einer **Notes App**, erstellt mit **HTML**, **CSS** und **Vanilla JavaScript** (ohne Frameworks). Die Anwendung ermöglicht es Benutzern, Notizen zu erstellen, zu löschen und lokal zu speichern. Die Notizen bleiben nach einem Seiten-Neuladen erhalten, da sie im **localStorage** gespeichert werden.
-
+https://clar1sseee.github.io/NotesApp_Aufgabe2/
 ---
 
 ## Features
